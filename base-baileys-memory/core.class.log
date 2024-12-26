@@ -1,0 +1,114 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930694458@s.whatsapp.net',
+    fromMe: false,
+    id: 'C2544C7630358B1752A3F90865A07B68',
+    participant: undefined
+  },
+  messageTimestamp: 1735249553,
+  pushName: 'Jerico 🌃🌛',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '51930694458'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_46e5c739-a18a-4a0e-ad15-38ec85522638',
+  keyword: 'key_f3f4b133-2065-40df-b515-2978caca8463',
+  answer: 'Buen Día, Soy el chatbot del *Soporte Turnitin* de la Universidad de Huánuco.',
+  options: {
+    media: 'https://drive.google.com/uc?export=view&id=1lKcpvfpGCpXFsqnKfyVRs1cZvaWVgHD-',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3dce3c11408b0e5a3ca91838c9f7cdc2'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b641d9e9-471e-4044-8e58-98327e985291',
+  keyword: 'ans_46e5c739-a18a-4a0e-ad15-38ec85522638',
+  answer: 'Escribe *Menu* para brindarte las opciones que dispongo.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '26991a27d3c0d20771bccaa6519d6abb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51924121768@s.whatsapp.net',
+    fromMe: false,
+    id: '46EC8D375802E9044B30ED4FCD64788C',
+    participant: undefined
+  },
+  messageTimestamp: 1735249619,
+  pushName: 'DESCANSO SÁBADO Y DOMINGO',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '51924121768'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_46e5c739-a18a-4a0e-ad15-38ec85522638',
+  keyword: 'key_f3f4b133-2065-40df-b515-2978caca8463',
+  answer: 'Buen Día, Soy el chatbot del *Soporte Turnitin* de la Universidad de Huánuco.',
+  options: {
+    media: 'https://drive.google.com/uc?export=view&id=1lKcpvfpGCpXFsqnKfyVRs1cZvaWVgHD-',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3dce3c11408b0e5a3ca91838c9f7cdc2'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b641d9e9-471e-4044-8e58-98327e985291',
+  keyword: 'ans_46e5c739-a18a-4a0e-ad15-38ec85522638',
+  answer: 'Escribe *Menu* para brindarte las opciones que dispongo.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '26991a27d3c0d20771bccaa6519d6abb'
+}
