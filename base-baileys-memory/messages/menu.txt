@@ -1,0 +1,11 @@
+Este es el menu de opciones, eliga la opcion de entre la siguiente lista:
+
+👉 *1.* Requisitos para obtener la constancia de originalidad.
+👉 *2.* ¿Cómo puedo llevar el curso de buenas practicas en *TU COACH UDH*?
+👉 *3.* ¿Cuánto es el porcentaje permitido para pregrado?
+👉 *4.* ¿Cuánto es el porcentaje permitido para posgrado?
+👉 *5.* ¿Cómo puedo eliminar los caracteres ocultos?
+👉 *6.* ¿Cuántas veces debe pasar mi informe final por el software de similitud?',
+👉 *7.* Horarios de Atención
+👉 *8.* ¿Cuál es el número de repositorio institucional de la UDH?',
+👉 *9.* Ya tengo mi constancia de originalidad emitida por el comité de integridad científica ¿Qué proceso sigue?
